@@ -34,8 +34,8 @@
 
 ## Стажировки и курсы
  - **Kaspersky SafeBoard 2020**  
-Проходила интенсив на стриме разработки на Python в Лаборатории Касперского.
-[Ссылки на репозитории с кодом с интенсива](https://github.com/Artona17/safeboard-tests-homework)
+Проходила интенсив на стриме разработки на Python в Лаборатории Касперского.  
+Ссылки на выполненные задания - [1](https://github.com/Artona17/safeboard-tests-homework), [2](https://github.com/Artona17/safeboard-performance-analysis-parcing-homework), [3](https://github.com/Artona17/safeboard-parsing-homework).
 
 ## Онлайн курсы
  - **Введение в машинное обучение**  
